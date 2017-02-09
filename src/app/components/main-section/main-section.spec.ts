@@ -1,7 +1,7 @@
 import * as angular from 'angular';
 import 'angular-mocks';
 import {} from 'jasmine';
-import {MainSection} from './MainSection';
+import {MainSection} from './main-section';
 
 describe('MainSection component', () => {
   class MockGithubService {
